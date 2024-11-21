@@ -47,7 +47,7 @@ O PhotonClean monitoriza a limpeza das placas solares em tempo real utilizando s
 ## **Diagrama do Circuito**  
 O projeto foi implementado e testado no simulador WokWi. Clique no link abaixo para visualizar o modelo completo:  
 
-[🔗 Acesse a Simulação do PhotonClean no WokWi](https://wokwi.com/projects/12345667890r)  
+[🔗 Acesse a Simulação do PhotonClean no WokWi](https://wokwi.com/projects/415170948559075329)  
 
 ---
 
@@ -58,7 +58,7 @@ O código para o projeto foi desenvolvido em **C++** e está disponível abaixo:
 ```cpp
 #include <LiquidCrystal_I2C.h>
 int pin_ldr = A0;
-int led_r = 7;
+int led_r = 7
 int led_y = 8;
 int led_g = 9;
 int buzzer = 6;
